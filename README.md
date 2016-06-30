@@ -1,5 +1,5 @@
 # seismicFeed
-date/time, coordinates, magnitudes and locations of recent earthquakes in Turkey.
+date/time, coordinates, magnitudes and locations of the recent earthquakes in Turkey.
 
 
 - [ ] Harvesting Data
