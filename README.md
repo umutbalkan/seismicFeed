@@ -2,7 +2,7 @@
 date/time, coordinates, magnitudes and locations of the recent earthquakes in Turkey.
 
 
-- [ ] Harvesting Data
+- [x] Harvesting Data
 - [ ] Bug-free
 - [ ] Twitter bot
 - [ ] Google Maps marker of the locations (coordinates).
