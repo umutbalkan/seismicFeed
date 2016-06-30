@@ -1,5 +1,5 @@
 # seismicFeed
-date/time, coordinates, magnitudes and locations of the recent earthquakes in Turkey.
+is a data scraper. Shows date/time, coordinates, magnitudes and locations of the recent earthquakes in Turkey.
 
 
 - [x] Harvesting Data
