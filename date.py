@@ -16,5 +16,5 @@ class Date:
 
 	# Overriding the output format
 	def __str__(self):
-		stats = year + "." + month + "." day
+		stats = year + "." + month + "." + day
 		return stats
